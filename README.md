@@ -5,7 +5,7 @@
 | Scripts | Status 
 | -------- | -------- 
 | LastOyuncu-EnginClient | 🟢
-| Craftrise-Sh1tWare | 🟢
+| RACrise-Sh1tWare | 🟢
 | SkidV2 External    | 🟡   
 | DisabledHub | 🟡
 | PenguHub  | 🔴
