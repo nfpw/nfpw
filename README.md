@@ -9,7 +9,7 @@
 | PenguHub  | 🔴
 | FlexClient | 🔴
 
-| Languages that i know |
+| Languages that i know 
 | -------- | -------- 
 | I understand most stuff | 🟢 LuaU 
 | Maybe | 🟡 Python 
