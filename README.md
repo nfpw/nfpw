@@ -4,8 +4,8 @@
 
 | Scripts | Status 
 | -------- | -------- 
-| LastOyuncu-EnginClient | 🟢
-| RACrise-Sh1tWare | 🟢 
+| LastOyuncu-nfpwClient | 🟢
+| RACrise-nfpwClient | 🟢 
 | DisabledHub | 🟡
 | SkidV2 External    | 🟡  
 | FlexClient | 🔴
