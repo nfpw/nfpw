@@ -4,6 +4,7 @@
 
 | Scripts | Status 
 | -------- | -------- 
+| LastOyuncu-EnginClient | 🟡
 | SkidV2 External    | 🟡   
 | DisabledHub | 🟡
 | PenguHub  | 🔴
