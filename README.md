@@ -5,11 +5,12 @@
 | Scripts | Status 
 | -------- | -------- 
 | LastOyuncu-EnginClient | 🟢
-| RACrise-Sh1tWare | 🟢
-| SkidV2 External    | 🟡   
+| RACrise-Sh1tWare | 🟢 
 | DisabledHub | 🟡
-| PenguHub  | 🔴
+| SkidV2 External    | 🟡  
 | FlexClient | 🔴
+| PenguHub  | 🔴
+| c1psHub | 🔴
 
 ## Languages that i know 
 
