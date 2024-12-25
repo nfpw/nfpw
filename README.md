@@ -8,6 +8,7 @@
 | RACrise-nfpwClient | 🟢 
 | DisabledHub | 🟡
 | SkidV2 External    | 🟡  
+| SkidV1 Internal    | 🔴  
 | FlexClient | 🔴
 | PenguHub  | 🔴
 | c1psHub | 🔴
