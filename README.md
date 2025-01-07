@@ -4,8 +4,8 @@
 
 | Scripts | Status 
 | -------- | -------- 
-| LastOyuncu-nfpwClient | 🟢
-| RACrise-nfpwClient | 🟢 
+| SonOyuncu-CheatEngineScript | 🟢
+| CraftRise-CheatEngineScript | 🟢 
 | DisabledHub | 🟡
 | SkidV2 External    | 🟡  
 | SkidV1 Internal    | 🔴  
