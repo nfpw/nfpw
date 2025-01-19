@@ -4,14 +4,12 @@
 
 | Scripts | Status 
 | -------- | -------- 
-| SonOyuncu-CheatEngineScript | 🟢
-| CraftRise-CheatEngineScript | 🟢 
-| DisabledHub | 🟡
+| ShizoWare | 🟢
 | SkidV2 External    | 🟡  
 | SkidV1 Internal    | 🔴  
 | FlexClient | 🔴
 | PenguHub  | 🔴
-| c1psHub | 🔴
+| c1psSense | 🔴
 
 ## Languages that i know 
 
