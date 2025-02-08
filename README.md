@@ -4,10 +4,8 @@
 
 | Scripts | Status 
 | -------- | -------- 
-| ShizoWare | 🟢
-| SkidV2 External    | 🟡  
+| ShizoWare | 🟢 
 | SkidV1 Internal    | 🔴  
-| FlexClient | 🔴
 | PenguHub  | 🔴
 | c1psSense | 🔴
 
@@ -17,4 +15,4 @@
 
 > Maybe | 🟡 Python 
 
-> Im new at it | 🟡 C++ 
+> Im new at it | 🔴 C++ 
