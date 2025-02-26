@@ -4,8 +4,8 @@
 
 | Scripts | Status 
 | -------- | -------- 
-| ShizoWare | 🟢 
-| SkidV1 Internal    | 🔴  
+| RatHub | 🟢 
+| SkidV1 Internal    | 🟡  
 | PenguHub  | 🔴
 | c1psSense | 🔴
 
